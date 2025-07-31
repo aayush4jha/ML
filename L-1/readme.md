@@ -27,7 +27,7 @@ The dataset used in this analysis contains various details related to loans, inc
 
 ## ⚙️ Technologies Used
 
-- Python 3.x
+- Python 3
 - Pandas
 - NumPy
 - Matplotlib
